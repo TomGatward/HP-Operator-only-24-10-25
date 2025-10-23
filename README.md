@@ -2,6 +2,9 @@ The Prime-Anchored Hilbert-Polya Operator and its consequences
 
 Tom Gatward (ORCID: 0009-0009-1167-6421)
 
+[![DOI](https://zenodo.org/badge/1082065968.svg)](https://doi.org/10.5281/zenodo.17427904)
+
+
 
 ## Overview
 
